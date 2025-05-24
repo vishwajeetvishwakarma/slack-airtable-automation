@@ -1,0 +1,6 @@
+Record ID,Name,Description,Status,Dependencies,Assignee,Due Date,Last Notification,Last Notified
+rec001,Set up project repository,Create GitHub repo with basic structure and README,Done,,U012ABC123,2023-05-20,,
+rec002,Define database schema,Create tables and relationships for user management,Done,rec001,U234DEF456,2023-05-22,,
+rec003,Implement user authentication,Build login/signup flows with email verification,To Do,rec002,U345GHI789,2023-05-25,,
+rec004,Create admin dashboard,Build interface for monitoring user activities,To Do,rec003,U012ABC123,2023-05-28,,
+rec005,Set up CI/CD pipeline,Configure automated testing and deployment,To Do,rec001,U234DEF456,2023-05-23,,
